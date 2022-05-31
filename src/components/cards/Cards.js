@@ -16,7 +16,7 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src={img2}
-              text="Higly skilled surgens, Dr Sarath T S MBBS and MS (General Surgery), MCh (Plastic Surgery),
+              text="Higly skilled surgens, Dr Sarath T S MBBS, MS (General Surgery), MCh (Plastic Surgery),
                Dr Dhanya Prakash  BDS, MDS (Maxillofacial surgery) and PGCE, 
                Dr sreelal sreedharan  M.B.B.S, M.S (General Surgery) and MCh (plastic surgery)"
               label="Hair Transplantation"
