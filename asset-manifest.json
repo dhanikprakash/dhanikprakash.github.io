@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6d6e5f7e.chunk.css",
-    "main.js": "/static/js/main.da99a434.chunk.js",
-    "main.js.map": "/static/js/main.da99a434.chunk.js.map",
+    "main.js": "/static/js/main.8fef7e66.chunk.js",
+    "main.js.map": "/static/js/main.8fef7e66.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0c0a9fb9.js",
     "runtime-main.js.map": "/static/js/runtime-main.0c0a9fb9.js.map",
     "static/js/2.ab1174f1.chunk.js": "/static/js/2.ab1174f1.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/Maxillofacial.678b92ee.png": "/static/media/Maxillofacial.678b92ee.png",
     "static/media/Microvascular.2f582086.png": "/static/media/Microvascular.2f582086.png",
     "static/media/ReconstructiveSurgery.d8558f2b.png": "/static/media/ReconstructiveSurgery.d8558f2b.png",
-    "static/media/Video-1.fe722d9d.mp4": "/static/media/Video-1.fe722d9d.mp4",
+    "static/media/Sreekrishna-1.98945ea7.m4v": "/static/media/Sreekrishna-1.98945ea7.m4v",
     "static/media/dhanya_3.85384f31.jpg": "/static/media/dhanya_3.85384f31.jpg",
     "static/media/logo_v3.6822ab47.png": "/static/media/logo_v3.6822ab47.png",
     "static/media/sarath.63b0f6ee.jpg": "/static/media/sarath.63b0f6ee.jpg",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.0c0a9fb9.js",
     "static/js/2.ab1174f1.chunk.js",
     "static/css/main.6d6e5f7e.chunk.css",
-    "static/js/main.da99a434.chunk.js"
+    "static/js/main.8fef7e66.chunk.js"
   ]
 }
