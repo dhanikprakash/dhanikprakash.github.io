@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6d6e5f7e.chunk.css",
-    "main.js": "/static/js/main.8fef7e66.chunk.js",
-    "main.js.map": "/static/js/main.8fef7e66.chunk.js.map",
+    "main.js": "/static/js/main.c563c0d3.chunk.js",
+    "main.js.map": "/static/js/main.c563c0d3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0c0a9fb9.js",
     "runtime-main.js.map": "/static/js/runtime-main.0c0a9fb9.js.map",
     "static/js/2.ab1174f1.chunk.js": "/static/js/2.ab1174f1.chunk.js",
@@ -12,24 +12,24 @@
     "static/js/2.ab1174f1.chunk.js.LICENSE.txt": "/static/js/2.ab1174f1.chunk.js.LICENSE.txt",
     "static/media/Cosmetic.46b93576.png": "/static/media/Cosmetic.46b93576.png",
     "static/media/HandSurgery.6bb6fdbb.png": "/static/media/HandSurgery.6bb6fdbb.png",
-    "static/media/IMG_1.60146811.jpg": "/static/media/IMG_1.60146811.jpg",
+    "static/media/IMG_1.23bcf822.jpg": "/static/media/IMG_1.23bcf822.jpg",
     "static/media/IMG_2.81f35859.jpg": "/static/media/IMG_2.81f35859.jpg",
-    "static/media/IMG_3.bd327783.jpg": "/static/media/IMG_3.bd327783.jpg",
+    "static/media/IMG_3.06e73440.jpg": "/static/media/IMG_3.06e73440.jpg",
     "static/media/IMG_4.0bfcbd80.jpg": "/static/media/IMG_4.0bfcbd80.jpg",
-    "static/media/IMG_5.e91e7620.jpg": "/static/media/IMG_5.e91e7620.jpg",
+    "static/media/IMG_5.8c0d1c95.jpg": "/static/media/IMG_5.8c0d1c95.jpg",
     "static/media/Maxillofacial.678b92ee.png": "/static/media/Maxillofacial.678b92ee.png",
     "static/media/Microvascular.2f582086.png": "/static/media/Microvascular.2f582086.png",
     "static/media/ReconstructiveSurgery.d8558f2b.png": "/static/media/ReconstructiveSurgery.d8558f2b.png",
-    "static/media/Sreekrishna-1.98945ea7.m4v": "/static/media/Sreekrishna-1.98945ea7.m4v",
-    "static/media/dhanya_3.85384f31.jpg": "/static/media/dhanya_3.85384f31.jpg",
+    "static/media/Sreekrishna-cc.873e4bac.mp4": "/static/media/Sreekrishna-cc.873e4bac.mp4",
+    "static/media/dhanya_4.7665213a.JPG": "/static/media/dhanya_4.7665213a.JPG",
     "static/media/logo_v3.6822ab47.png": "/static/media/logo_v3.6822ab47.png",
-    "static/media/sarath.63b0f6ee.jpg": "/static/media/sarath.63b0f6ee.jpg",
+    "static/media/sarath_4.c3ce2a95.JPG": "/static/media/sarath_4.c3ce2a95.JPG",
     "static/media/sreelal.6cdf617f.jpg": "/static/media/sreelal.6cdf617f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0c0a9fb9.js",
     "static/js/2.ab1174f1.chunk.js",
     "static/css/main.6d6e5f7e.chunk.css",
-    "static/js/main.8fef7e66.chunk.js"
+    "static/js/main.c563c0d3.chunk.js"
   ]
 }
